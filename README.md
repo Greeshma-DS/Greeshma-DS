@@ -63,9 +63,13 @@ Computer vision pipeline using OpenCV and KNN with GridSearchCV optimization. Ac
 
 ## GitHub Stats
 
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Greeshma-DS&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greeshma-DS&layout=compact&theme=default&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Greeshma-DS&show_icons=true&theme=calm&hide_border=false&border_radius=10&count_private=true&include_all_commits=true&title_color=2c5364&icon_color=2c5364&text_color=333333&bg_color=f8fafc" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greeshma-DS&layout=compact&theme=calm&hide_border=false&border_radius=10&title_color=2c5364&text_color=333333&bg_color=f8fafc" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Greeshma-DS&theme=calm&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&ring=2c5364&fire=e67e22&currStreakLabel=2c5364&background=f8fafc" height="170" />
 </p>
 
 ---

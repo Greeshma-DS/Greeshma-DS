@@ -106,10 +106,16 @@ Data analysis and visualization of civic safety trends to surface patterns and s
 
 ## Latest Repositories
 
-<!-- REPOS_START -->
-<!-- REPOS_END -->
+<div align="center">
 
-> 🔄 This section auto-updates whenever you create or push to a repo.
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Greeshma-DS&repo=HERcompass&theme=default&hide_border=true&border_radius=10)](https://github.com/Greeshma-DS/HERcompass)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Greeshma-DS&repo=360churn&theme=default&hide_border=true&border_radius=10)](https://github.com/Greeshma-DS/360churn)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Greeshma-DS&repo=Student-performance-prediction&theme=default&hide_border=true&border_radius=10)](https://github.com/Greeshma-DS/Student-performance-prediction)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Greeshma-DS&repo=Traffic-Sign-Recognition&theme=default&hide_border=true&border_radius=10)](https://github.com/Greeshma-DS/Traffic-Sign-Recognition)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Greeshma-DS&repo=RAG-&theme=default&hide_border=true&border_radius=10)](https://github.com/Greeshma-DS/RAG-)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Greeshma-DS&repo=AmazonReviews-Analytics&theme=default&hide_border=true&border_radius=10)](https://github.com/Greeshma-DS/AmazonReviews-Analytics)
+
+</div>
 
 ---
 

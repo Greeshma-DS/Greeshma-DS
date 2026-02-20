@@ -2,7 +2,7 @@
 
 **Data Scientist | ML Engineer | IEEE Published Researcher**
 
-📍 West Haven, CT &nbsp;|&nbsp; 📧 chandurigreeshmaa@gmail.com &nbsp;|&nbsp; 🎓 M.S. Data Science, University of New Haven (GPA 3.7)
+📍 West Haven, CT &nbsp;|&nbsp; 📧 greeshmachanduri1@gmail.com &nbsp;|&nbsp; 🎓 M.S. Data Science, University of New Haven (GPA 3.7)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/greeshma-chanduri)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=githubpages&logoColor=white)](https://greeshma-ds.github.io/portfolio/)
@@ -50,14 +50,49 @@ Entry-level Data Scientist with hands-on experience building and deploying end-t
 
 ## Featured Projects
 
-### 🔵 [360Churn — Customer Churn Prediction](https://github.com/Greeshma-DS)
+### 🔵 [360Churn — Customer Churn Prediction](https://github.com/Greeshma-DS/360churn)
 End-to-end ML pipeline on 10,000+ telecom records. Implemented Random Forest & XGBoost with GridSearchCV tuning, improving accuracy from 68% to **85%**. Deployed a real-time Streamlit dashboard for churn prediction and retention simulation.
+`Python` `XGBoost` `Random Forest` `Streamlit` `SQL`
 
-### 🟣 [Student Performance Prediction](https://github.com/Greeshma-DS) — *IEEE Published*
-Hybrid ensemble of Random Forest, XGBoost, and Neural Networks with dynamic weighting. Achieved **82% accuracy** with cross-validation. Presented at IEEE International Conference ICCSCE 2025, Malaysia.
+### 🟣 [Student Performance Prediction](https://github.com/Greeshma-DS/Student-performance-prediction) — *IEEE Published*
+Hybrid ensemble of Random Forest, XGBoost, and Neural Networks with dynamic weighting. Achieved **82% accuracy** with cross-validation. Published & presented at **IEEE ICCSCE 2025, Malaysia**.
+`Python` `Scikit-learn` `XGBoost` `Neural Networks` `Streamlit`
 
-### 🟢 [Fake Currency Detection](https://github.com/Greeshma-DS)
+### 🟢 [Fake Currency Detection](https://github.com/Greeshma-DS/Fakecurrencydetection)
 Computer vision pipeline using OpenCV and KNN with GridSearchCV optimization. Achieved **90% accuracy**, simulating a real-world fraud detection workflow.
+`Python` `OpenCV` `KNN` `Jupyter Notebook`
+
+### 🟡 [HERcompass](https://github.com/Greeshma-DS/HERcompass)
+A data-driven application designed to support and empower women — combining ML insights with intuitive UX to deliver personalized guidance and resources.
+`Python` `Machine Learning`
+
+### 🔴 [Traffic Sign Recognition](https://github.com/Greeshma-DS/Traffic-Sign-Recognition)
+Traffic sign classification using Convolutional Neural Networks (CNN) trained on the German Traffic Sign Recognition Benchmark (GTSRB). Deployed via Streamlit for real-time inference.
+`Python` `CNN` `TensorFlow` `Streamlit` `Computer Vision`
+
+### 🟠 [Amazon Reviews Analytics](https://github.com/Greeshma-DS/AmazonReviews-Analytics)
+Sentiment analysis and analytics pipeline on large-scale Amazon review data. Extracts trends and insights to support product and business decisions.
+`Python` `NLP` `Pandas` `Data Analytics`
+
+### 🔵 [Job Market Trends](https://github.com/Greeshma-DS/Job-Market-Trends)
+Exploratory data analysis and visualization of job market patterns across industries and skill sets, surfacing actionable insights for career planning.
+`Python` `EDA` `Data Visualization`
+
+### 🟣 [Apple Leaf Disease Detection](https://github.com/Greeshma-DS/Apple-Leaf-Disease-Detection)
+Image classification model to detect diseases in apple leaves using deep learning, supporting precision agriculture and early disease intervention.
+`Python` `CNN` `Deep Learning` `Jupyter Notebook`
+
+### 🟤 [RAG Pipeline](https://github.com/Greeshma-DS/RAG-)
+Retrieval-Augmented Generation (RAG) system for intelligent document querying — combining vector search with LLMs to deliver accurate, context-aware responses.
+`Python` `LLM` `Vector Search` `RAG`
+
+### ⚫ [Connect 4 AI — Minimax with Alpha-Beta Pruning](https://github.com/Greeshma-DS/Team-Matrix)
+AI agent for Connect 4 using the Minimax algorithm with Alpha-Beta Pruning for optimal move selection. Built as an AI term project.
+`Python` `AI` `Game Theory` `Search Algorithms`
+
+### 🟢 [CivicSafety Analysis](https://github.com/Greeshma-DS/civicsafety-analysis)
+Data analysis and visualization of civic safety trends to surface patterns and support informed community decision-making.
+`JavaScript` `Data Visualization`
 
 ---
 

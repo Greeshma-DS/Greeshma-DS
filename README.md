@@ -100,27 +100,13 @@ Data analysis and visualization of civic safety trends to surface patterns and s
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Greeshma-DS&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true&rank_icon=github" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greeshma-DS&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Greeshma-DS&show_icons=true&theme=default&hide_border=true&border_radius=10&count_private=true&include_all_commits=true&hide=contribs,prs&custom_title=Greeshma%27s+GitHub+Stats&show=reviews,discussions_started" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greeshma-DS&layout=compact&theme=default&hide_border=true&border_radius=10&langs_count=5&hide=html,css,javascript" height="170" />
 
 </div>
 
 <div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Greeshma-DS&theme=tokyonight&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" height="175" />
-
-</div>
-
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=Greeshma-DS&theme=tokyonight&no-frame=true&no-bg=false&column=6&margin-w=8&margin-h=8" />
-
-</div>
-
-<div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Greeshma-DS&theme=tokyo-night&hide_border=true&radius=8&area=true" width="95%" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Greeshma-DS&theme=minimal&hide_border=true&radius=6&area=false&line=2c5364&point=2c5364&color=555555" width="90%" />
 </div>
 
 ---

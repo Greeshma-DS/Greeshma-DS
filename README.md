@@ -2,11 +2,11 @@
 
 **Data Scientist | ML Engineer | IEEE Published Researcher**
 
-📍 West Haven, CT &nbsp;|&nbsp; 📧 greeshmachanduri1@gmail.com &nbsp;|&nbsp; 🎓 M.S. Data Science, University of New Haven (GPA 3.7)
+📍 West Haven, CT &nbsp;|&nbsp; 📧 chandurigreeshmaa@gmail.com &nbsp;|&nbsp; 🎓 M.S. Data Science, University of New Haven (GPA 3.7)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/greeshma-chanduri)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=githubpages&logoColor=white)](https://greeshma-ds.github.io/portfolio/)
-[![Email](https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:greeshmachanduri1@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chandurigreeshmaa@gmail.com)
 
 ---
 
@@ -98,14 +98,30 @@ Data analysis and visualization of civic safety trends to surface patterns and s
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Greeshma-DS&show_icons=true&theme=calm&hide_border=false&border_radius=10&count_private=true&include_all_commits=true&title_color=2c5364&icon_color=2c5364&text_color=333333&bg_color=f8fafc" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greeshma-DS&layout=compact&theme=calm&hide_border=false&border_radius=10&title_color=2c5364&text_color=333333&bg_color=f8fafc" height="170" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Greeshma-DS&theme=calm&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&ring=2c5364&fire=e67e22&currStreakLabel=2c5364&background=f8fafc" height="170" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Greeshma-DS&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true&rank_icon=github" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greeshma-DS&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" height="175" />
+
+</div>
+
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Greeshma-DS&theme=tokyonight&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" height="175" />
+
+</div>
+
+<div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=Greeshma-DS&theme=tokyonight&no-frame=true&no-bg=false&column=6&margin-w=8&margin-h=8" />
+
+</div>
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Greeshma-DS&theme=tokyo-night&hide_border=true&radius=8&area=true" width="95%" />
+
+</div>
 
 ---
 

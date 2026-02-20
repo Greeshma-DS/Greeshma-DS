@@ -96,17 +96,10 @@ Data analysis and visualization of civic safety trends to surface patterns and s
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Greeshma-DS&show_icons=true&theme=default&hide_border=true&border_radius=10&count_private=true&include_all_commits=true&hide=contribs,prs&custom_title=Greeshma%27s+GitHub+Stats&show=reviews,discussions_started" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greeshma-DS&layout=compact&theme=default&hide_border=true&border_radius=10&langs_count=5&hide=html,css,javascript" height="170" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Greeshma-DS&theme=minimal&hide_border=true&radius=6&area=false&line=2c5364&point=2c5364&color=555555" width="90%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Greeshma-DS&theme=default&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
 
 ---

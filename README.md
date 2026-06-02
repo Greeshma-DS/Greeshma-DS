@@ -2,7 +2,7 @@
 
 **Machine Learning Engineer | Data & Systems Engineer | IEEE Published Researcher**
 
-📍 West Haven, CT &nbsp;|&nbsp; 📧 chandurigreeshmaa@gmail.com &nbsp;|&nbsp; 🎓 M.S. Data Science, University of New Haven
+📍 West Haven, CT &nbsp;|&nbsp; 📧 chandurigreeshmaa@gmail.com &nbsp;|&nbsp; 🎓 M.S. Data Science, University of New Haven|&nbsp; Dean's Scholarship recipient
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/greeshma-chanduri)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=githubpages&logoColor=white)](https://greeshma-ds.github.io/portfolio/)

@@ -1,6 +1,6 @@
 # Hi, I'm Greeshma Chanduri 👋
 
-**Machine Learning Engineer | Data & Systems Engineer | IEEE Published Researcher**
+**Machine Learning| Data & Systems Engineer | IEEE Published Researcher**
 
 📍 West Haven, CT &nbsp;|&nbsp; 📧 chandurigreeshmaa@gmail.com &nbsp;|&nbsp; 🎓 M.S. Data Science, University of New Haven|&nbsp; Dean's Scholarship recipient
 

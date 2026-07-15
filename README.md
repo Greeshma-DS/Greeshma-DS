@@ -1,172 +1,236 @@
 # Hi, I'm Greeshma Chanduri 👋
 
-**Machine Learning| Data & Systems Engineer | IEEE Published Researcher**
+# Data Analyst | Business Intelligence | SQL | Python | Machine Learning | IEEE Published Researcher
 
-📍 West Haven, CT &nbsp;|&nbsp; 📧 chandurigreeshmaa@gmail.com &nbsp;|&nbsp; 🎓 M.S. Data Science, University of New Haven|&nbsp; Dean's Scholarship recipient
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/greeshma-chanduri)
-[![Email](https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chandurigreeshmaa@gmail.com)
-
----
-
-## About Me
-
-Entry-level engineer with hands-on experience building and deploying **end-to-end machine learning pipelines and data-driven systems using Python**. I specialize in predictive modeling, feature engineering, and deploying real-time ML applications using Streamlit.
-
-Alongside machine learning, I am interested in how **large-scale systems and data pipelines operate in production environments**. Published IEEE researcher with a passion for solving real-world problems through **machine learning, software engineering, and data-driven systems**.
-
-- 🔭 Building machine learning systems and data pipelines
-- 🌱 Exploring deep learning, NLP, and ML system deployment
-- 📄 Published & presented research at **IEEE ICCSCE 2025, Malaysia**
-- 🏆 Two-time Illuminate Technical Hackathon Winner
-- 🎓 Dean's Scholarship recipient, University of New Haven
+📍 West Haven, Connecticut, USA  
+📧 chandurigreeshmaa@gmail.com  
+🎓 M.S. Data Science | University of New Haven  
+🏆 Dean's Scholarship Recipient
 
 ---
 
-## Tech Stack
+# 🔬 Research Portfolio
 
-### Programming & Data
+Research has been one of the most rewarding aspects of my graduate journey. I enjoy applying machine learning, analytics, and artificial intelligence to solve practical problems while contributing to the research community. My work focuses on explainable AI, predictive analytics, reinforcement learning, quantum machine learning, and intelligent decision-support systems.
 
-![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479a1?style=flat-square&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-### Machine Learning & AI
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-f7931e?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189fdd?style=flat-square&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-ff6f00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-d00000?style=flat-square&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5c3ee8?style=flat-square&logo=opencv&logoColor=white)
-
-### Systems & Tools
-
-![Streamlit](https://img.shields.io/badge/Streamlit-ff4b4b?style=flat-square&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-f37626?style=flat-square&logo=jupyter&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-fcc624?style=flat-square&logo=linux&logoColor=black)
+I actively pursue research that bridges academic innovation with real-world business applications across healthcare, finance, education, retail, and enterprise analytics.
 
 ---
 
-## Engineering Interests
+# 📄 Published Research
 
-Beyond machine learning, I’m interested in how **scalable systems and infrastructure support modern data-driven applications**.
+## Student Performance Prediction Using Hybrid Ensemble Machine Learning Models
 
-Areas I enjoy exploring:
+**Published & Presented at IEEE ICCSCE 2025 (Malaysia)**
 
-- Machine learning systems and model deployment
-- Data pipelines and backend data workflows
-- Infrastructure supporting large-scale ML systems
-- System reliability, debugging, and performance
+Developed a hybrid ensemble framework integrating Random Forest, XGBoost, and Neural Networks using dynamic weighting techniques for student performance prediction. The research demonstrates how ensemble learning improves predictive accuracy while maintaining model robustness across different educational datasets.
 
----
+### Research Highlights
 
-## Featured Projects
-
-### 🔵 [360Churn — Customer Churn Prediction](https://github.com/Greeshma-DS/360churn)
-
-End-to-end ML pipeline and data processing workflow on **10,000+ telecom records**. Implemented Random Forest & XGBoost with GridSearchCV tuning, improving accuracy from **68% to 85%**. Deployed a real-time Streamlit dashboard for churn prediction and retention simulation.
-
-`Python` `XGBoost` `Random Forest` `Streamlit` `SQL`
-
----
-
-### 🟣 [Student Performance Prediction](https://github.com/Greeshma-DS/Student-performance-prediction) — *IEEE Published*
-
-Hybrid ensemble of Random Forest, XGBoost, and Neural Networks with dynamic weighting. Achieved **82% accuracy** with cross-validation. Published & presented at **IEEE ICCSCE 2025, Malaysia**.
-
-`Python` `Scikit-learn` `XGBoost` `Neural Networks` `Streamlit`
+- Published in IEEE ICCSCE 2025
+- Presented internationally in Malaysia
+- Hybrid Ensemble Learning
+- Random Forest
+- XGBoost
+- Artificial Neural Networks
+- Cross Validation
+- Predictive Analytics
+- Educational Data Mining
+- Explainable Machine Learning
 
 ---
 
-### 🟢 [Fake Currency Detection](https://github.com/Greeshma-DS/Fakecurrencydetection)
+# 🚀 Ongoing Research
 
-Computer vision pipeline using OpenCV and KNN with GridSearchCV optimization. Achieved **90% accuracy**, simulating a real-world fraud detection workflow.
+## Adaptive Decision Intelligence Framework (ADIF)
 
-`Python` `OpenCV` `KNN` `Jupyter Notebook`
+Developing an Adaptive Decision Intelligence Framework focused on improving transparency, interpretability, and trustworthiness in machine learning systems.
 
----
+The framework combines explainable artificial intelligence techniques with adaptive learning strategies to produce reliable decision-support systems capable of generating meaningful explanations for complex predictive models.
 
-### 🟡 [HERcompass](https://github.com/Greeshma-DS/HERcompass)
+### Research Areas
 
-A data-driven application designed to support and empower women — combining ML insights with intuitive UX to deliver personalized guidance and resources.
+- Explainable Artificial Intelligence (XAI)
+- Feature Attribution
+- Model Interpretability
+- Decision Intelligence
+- Human-Centered AI
+- Predictive Analytics
+- Business Decision Support
+- Responsible AI
 
-`Python` `Machine Learning`
-
----
-
-### 🔴 [Traffic Sign Recognition](https://github.com/Greeshma-DS/Traffic-Sign-Recognition)
-
-Traffic sign classification using CNN trained on the **German Traffic Sign Recognition Benchmark (GTSRB)**. Deployed via Streamlit for real-time inference.
-
-`Python` `CNN` `TensorFlow` `Computer Vision`
-
----
-
-### 🟠 [Amazon Reviews Analytics](https://github.com/Greeshma-DS/AmazonReviews-Analytics)
-
-Sentiment analysis and analytics pipeline on large-scale Amazon review data to extract insights supporting product and business decisions.
-
-`Python` `NLP` `Pandas`
+**Status:** Research Manuscript in Preparation
 
 ---
 
-### 🔵 [Job Market Trends](https://github.com/Greeshma-DS/Job-Market-Trends)
+## Adaptive Multi-Objective Reinforcement Learning with Classical and Variational Quantum Deep Q-Networks
 
-Exploratory data analysis and visualization of job market patterns across industries and skill sets.
+Current research exploring the integration of Classical Deep Reinforcement Learning with Variational Quantum Computing to solve adaptive multi-objective optimization problems.
 
-`Python` `EDA` `Data Visualization`
+The research investigates how quantum-enhanced reinforcement learning architectures can improve exploration, optimization efficiency, and decision-making for complex environments where multiple objectives must be optimized simultaneously.
 
----
+### Research Areas
 
-### 🟣 [Apple Leaf Disease Detection](https://github.com/Greeshma-DS/Apple-Leaf-Disease-Detection)
+- Reinforcement Learning
+- Deep Q Networks
+- Variational Quantum Circuits
+- Quantum Machine Learning
+- Multi-Objective Optimization
+- Artificial Intelligence
+- Decision Systems
+- Intelligent Agents
 
-Deep learning image classification model for detecting apple leaf diseases to support precision agriculture.
-
-`Python` `CNN` `Deep Learning`
-
----
-
-### 🟤 [RAG Pipeline](https://github.com/Greeshma-DS/RAG-)
-
-Retrieval-Augmented Generation system combining vector search with LLMs for intelligent document querying.
-
-`Python` `LLM` `Vector Search` `RAG`
+**Status:** Research Manuscript in Preparation
 
 ---
 
-### ⚫ [Connect 4 AI — Minimax with Alpha-Beta Pruning](https://github.com/Greeshma-DS/Team-Matrix)
+# 📊 About Me
 
-AI agent for Connect 4 implementing the **Minimax algorithm with Alpha-Beta pruning** for optimal move selection.
+I am passionate about transforming data into actionable insights through analytics, machine learning, visualization, and statistical modeling.
 
-`Python` `Game Theory` `Search Algorithms`
+My work combines business analytics with artificial intelligence to develop scalable, data-driven solutions that improve operational performance and support strategic decision-making.
 
----
+My interests span:
 
-### 🟢 [CivicSafety Analysis](https://github.com/Greeshma-DS/civicsafety-analysis)
+- Business Intelligence
+- Data Analytics
+- Predictive Modeling
+- Machine Learning
+- Explainable AI
+- Decision Intelligence
+- Data Visualization
+- Statistical Analysis
+- AI Systems
 
-Data analysis and visualization of civic safety trends to identify patterns supporting community decision-making.
-
-`JavaScript` `Data Visualization`
-
----
-
-## Currently Exploring
-
-- Deep learning and modern NLP techniques
-- Retrieval-Augmented Generation (RAG)
-- Scalable data pipelines
-- Systems supporting large-scale AI applications
+I enjoy working on projects that involve extracting meaningful insights from complex datasets, building predictive models, designing interactive dashboards, and applying advanced analytics to solve real-world business problems.
 
 ---
 
-## GitHub Activity
+# 💻 Technical Skills
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Greeshma-DS&theme=default&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
-</div>
+## Programming
+
+- Python
+- SQL
+- Java
+
+## Analytics & Visualization
+
+- Power BI
+- Tableau
+- Advanced Excel
+- Pandas
+- NumPy
+- KPI Reporting
+- Dashboard Development
+- Data Validation
+- Statistical Analysis
+- Exploratory Data Analysis
+
+## Machine Learning
+
+- Scikit-Learn
+- TensorFlow
+- Keras
+- XGBoost
+- OpenCV
+- CNN
+- NLP
+
+## Development Tools
+
+- Git
+- GitHub
+- Jupyter Notebook
+- Streamlit
+- Linux
 
 ---
 
-⭐ Open to opportunities in **Machine Learning, Software Engineering, Data Engineering, and AI Systems roles. Let's connect!**
+# 📂 Featured Projects
+
+## 📈 Customer Churn Prediction
+
+End-to-end machine learning pipeline developed using SQL, Python, Random Forest, XGBoost, and Streamlit for customer churn prediction and business retention analytics.
+
+---
+
+## 📊 Amazon Reviews Analytics
+
+Large-scale sentiment analysis and exploratory analytics pipeline extracting customer insights from Amazon product reviews.
+
+---
+
+## 💼 Job Market Trends
+
+Comprehensive analytics project analyzing hiring trends, salary patterns, skill demand, and workforce insights using Python and interactive visualizations.
+
+---
+
+## 🚦 Civic Safety Analysis
+
+Data visualization and analytical reporting project identifying public safety trends and supporting data-driven community decision making.
+
+---
+
+## 🎓 Student Performance Prediction (IEEE)
+
+Hybrid ensemble machine learning framework combining Random Forest, XGBoost, and Neural Networks.
+
+---
+
+## 💵 Fake Currency Detection
+
+Computer vision solution using OpenCV and machine learning for counterfeit currency detection.
+
+---
+
+## 🚗 Traffic Sign Recognition
+
+Deep learning image classification model using Convolutional Neural Networks trained on GTSRB.
+
+---
+
+## 🌿 Apple Leaf Disease Detection
+
+CNN-based disease detection system supporting precision agriculture.
+
+---
+
+## 👩 HERcompass
+
+Data-driven application providing intelligent recommendations and decision support.
+
+---
+
+## 🤖 Retrieval-Augmented Generation (RAG)
+
+Document intelligence system integrating vector search with Large Language Models for intelligent question answering.
+
+---
+
+# 🎯 Areas of Interest
+
+- Data Analytics
+- Business Intelligence
+- Healthcare Analytics
+- Financial Analytics
+- Retail Analytics
+- Machine Learning
+- Explainable AI
+- Reinforcement Learning
+- Quantum Machine Learning
+- Decision Intelligence
+- Data Visualization
+- AI Systems
+- Predictive Analytics
+
+---
+
+# 📫 Let's Connect
+
+I'm always interested in collaborating on analytics, machine learning, artificial intelligence, and research projects.
+
+⭐ Open to Full-Time Opportunities in:
+
+**Data Analyst • Business Analyst • BI Analyst • Reporting Analyst • Operations Analyst • Analytics Engineer • Data Scientist • Machine Learning Engineer**
